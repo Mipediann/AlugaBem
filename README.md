@@ -19,25 +19,25 @@ chore - Commits do tipo chore indicam atualizações de tarefas de build, config
 
 | Tipo de commit                | Emojis                |
 |-------------------------------|-----------------------|
-| Commit inicial                | 🎉 :tada:             |
-| Tag de versão                 | 🔖 :bookmark:         |
-| Novo recurso                  | ✨ :sparkles:          |
-| Lista de ideias (tasks)       | 🔜 :soon:             |
-| Bugfix                        | 🐛 :bug:              |
-| Documentação                  | 📚 :books:            |
-| Testes                        | 🧪 :test_tube:         |
-| Adicionando um teste          | ✅ :white_check_mark: |
-| Teste de aprovação            | ✔️ :heavy_check_mark: |
-| Acessibilidade                | ♿ :wheelchair:        |
-| Texto                         | 📝 :pencil:            |
-| Package.json em JS            | 📦 :package:           |
-| Em progresso                  | 🚧 :construction:      |
-| Arquivos de configuração      | 🔧 :wrench:            |
-| Removendo uma dependência      | ➖ :heavy_minus_sign:  |
-| Adicionando uma dependência    | ➕ :heavy_plus_sign:   |
-| Revertendo mudanças           | 💥 :boom:             |
-| Alterações de revisão de código | 👌 :ok_hand:           |
-| Refatoração                   | ♻️ :recycle:           |
-| Mover/Renomear                | 🚚 :truck:             |
+| Commit inicial                | 🎉 ":tada:"             |
+| Tag de versão                 | 🔖 ":bookmark:"         |
+| Novo recurso                  | ✨ ":sparkles:"          |
+| Lista de ideias (tasks)       | 🔜 ":soon:   "          |
+| Bugfix                        | 🐛 ":bug:"              |
+| Documentação                  | 📚 ":books:"            |
+| Testes                        | 🧪 ":test_tube:"         |
+| Adicionando um teste          | ✅ ":white_check_mark:" |
+| Teste de aprovação            | ✔️ ":heavy_check_mark:" |
+| Acessibilidade                | ♿ ":wheelchair:       " |
+| Texto                         | 📝 ":pencil:"            |
+| Package.json em JS            | 📦 ":package:"           |
+| Em progresso                  | 🚧 ":construction:"      |
+| Arquivos de configuração      | 🔧 ":wrench:"            |
+| Removendo uma dependência      | ➖ ":heavy_minus_sign:"  |
+| Adicionando uma dependência    | ➕ ":heavy_plus_sign: "  |
+| Revertendo mudanças           | 💥 ":boom: "            |
+| Alterações de revisão de código | 👌" :ok_hand: "          |
+| Refatoração                   | ♻️ ":recycle:"           |
+| Mover/Renomear                | 🚚 " :truck:    "         |
 
 ![Alt text](image.png)
