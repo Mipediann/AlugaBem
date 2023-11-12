@@ -41,5 +41,3 @@ chore - Commits do tipo chore indicam atualizações de tarefas de build, config
 | Mover/Renomear                | 🚚 :truck:             |
 
 ![Alt text](image.png)
-
-![Alt text](image.png)
