@@ -1,22 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+
 *{
+	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+	font-family:'Ubuntu' sans-serif;
 }
 
 body{
-	font-family: Helvetica, "Trebuchet",sans-serif;
-	height: 100vh;
-	box-sizing: border-box;
-	display: flex;
-	justify-content: center;
-	align-items: start;
-	padding-top: 10px;
+	font-family: 'Ubuntu',sans-serif;
+	background-color: #e6ecf1;
 	
 
 }
+
 .container{
 background: #3A9CF7; 
-width: 80%;
+width: 100%;
 height: 280px;
 border-radius: 30px;
 padding: 0px;
@@ -55,7 +56,7 @@ nav ul li a{
 .btnSup {
 	padding: 10px;
 	top: 10px;
-	margin: 0px px;
+	margin: 0px 0px;
 	display: flex;
 	justify-content: end;
 }
@@ -68,6 +69,7 @@ nav ul li a{
 .btn{
 	background: white;
 	color: black;
+	margin:  0px 0px;
 	text-decoration: none;
 	padding: 10px 10px ;
 	border-radius: 10px;
@@ -81,7 +83,7 @@ nav ul li a{
 }
 	
 .frmAlg {
-	width: 600px;
+	width: 700px;
 	height: 170px;
 	font-size: 20px;
 	color: white;
@@ -102,7 +104,7 @@ nav ul li a{
 }
 .frmAlg input{
 	font-size: 10px;
-	width: 210px;
+	width: 310px;
 	height: 40px;
 	border-radius: 10px;
 	box-shadow: 2px 2px 3px black;
